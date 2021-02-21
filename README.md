@@ -1,7 +1,6 @@
 # OCITN
 In this repository, we provide source code for "Less complexity one-class classification approach using construction error of convolutional image transformation network".
-The paper will be published from Information Sciences (Elsevier).<br>
-https://www.sciencedirect.com/science/article/pii/S0020025521001079
+The paper will be published from Information Sciences (Elsevier). https://www.sciencedirect.com/science/article/pii/S0020025521001079
 
 
 ## Overview

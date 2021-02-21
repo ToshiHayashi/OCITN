@@ -3,6 +3,10 @@ In this repository, we provide source code for "Less complexity one-class classi
 The paper is published from Information Sciences (Elsevier).
 
 
+## OCITN process
+![OCITN](https://user-images.githubusercontent.com/32119345/108633647-aa9aac80-74b8-11eb-9bc4-ad2fb2dc0036.png)
+
+
 
 
 
